@@ -1,7 +1,7 @@
 # mtz-client-css
 mtz is a krunker.io client that's users **must** download in order to use. Oops not anymore
 
-- Use any extension that allows you to implement Custom CSS for a websit. Highly recommend **User CSS**
+- Use any extension that allows you to implement Custom CSS for a website. Highly recommend **User CSS**
 
 - Paste the code into wherever it asks you to or simply import the file.
 
