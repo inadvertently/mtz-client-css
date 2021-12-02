@@ -1,5 +1,5 @@
 # mtz-client-css
-Fairly simple source for a clean, sleek GUI on krunker
+Fairly simple source for a clean, sleek GUI on krunker.io
 
 - Use any extension that allows you to implement Custom CSS for a website. Highly recommend **User CSS**
 
